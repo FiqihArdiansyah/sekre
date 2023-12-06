@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "834185512495",
+    "project_id": "inventory-app-aadcd",
+    "storage_bucket": "inventory-app-aadcd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:834185512495:android:8279ff77c53def65c0e8da",
+        "android_client_info": {
+          "package_name": "com.example.belajar2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZNRiAVte-ZaBdXfvRCPXoF6PqEJcz9x4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
